@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Временные файлы и сборка Gradle
+.gradle/
+build/
+
+# Системные файлы IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Логи и системные файлы ОС
+*.log
+.DS_Store
+Thumbs.db
